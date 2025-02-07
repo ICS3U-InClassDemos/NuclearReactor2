@@ -31,7 +31,7 @@ namespace NuclearReactor
 
             // change the output message
             outputLabel.ForeColor = Color.Red;
-            outputLabel.Text = "Meltdown Happening!!!";
+            outputLabel.Text = "Run Away Fast!!!";
 
             Refresh();
             Thread.Sleep(1000);
